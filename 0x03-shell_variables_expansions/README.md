@@ -1,2 +1,1 @@
-#!/bin/bash
-README.md file
+Create a script that creates an alias.
